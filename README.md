@@ -1,4 +1,4 @@
-# FaceGuard - AI Consent Verification System
+#VISO- AI Consent Verification System
 
 **Purpose**: Identify real human faces inside AI-generated content and enforce consent-based usage.
 
@@ -87,4 +87,5 @@ npm run dev
 - Platform-native plugins
 
 **"Our architecture is API-first and decentralized-ready, but today we focus on proving consent enforcement works."**
+
 
